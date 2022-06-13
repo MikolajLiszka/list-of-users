@@ -1,0 +1,20 @@
+h1 {
+    color: darkblue;
+}
+
+.add-btn {
+    background-color: #0066ff;
+    color: white;
+    border: #0066ff solid 1px;
+    padding: 10px;
+}
+
+.add-btn:hover {
+    background-color: #003399;
+    cursor: pointer;
+}
+
+.users-input {
+    padding: 9px;
+    margin-right: 5px;
+}
